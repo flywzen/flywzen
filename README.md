@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate fullstack web3 developer</h3>
+<h3 align="center">Passionate to be web3 developer</h3>
 <img align="right" alt="Coding" width="400" height="250" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
 
 <p align="left"> 
