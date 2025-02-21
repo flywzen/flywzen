@@ -16,7 +16,7 @@
 
 - 💇 How to reach me **muhammad.1231400148@student.itera.ac.id**
 
-- ⚡ Fun fact **I really like all about sci-fi**
+- ⚡**I really like everything about science fiction**
 
 <!--##- 🎓 I have **3 coding bootcamp scholarships** -->
 <hr>
