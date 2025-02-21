@@ -1,6 +1,6 @@
 
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=17&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Muhammad+Rafly+Yahya+Ramadhan;I+am+an+Undergraduate+ComSci+Student;also+a+Web3+and+CySec+enthusiast+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=19&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Muhammad+Rafly+Yahya+Ramadhan;I+am+an+Undergraduate+ComSci+Student;also+a+Web3+and+Cyber+Security+enthusiast" alt="Typing SVG" /></a>
   </a>
 </h1>
 <h2 align="center"></h2>
