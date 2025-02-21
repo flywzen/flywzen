@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=222&size=60&duration=2222&pause=222&color=F7F7F7&background=FFFFFF00&vCenter=true&width=1222&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Rafly+Yahya+Ramadhan;I'm+an+Undergraduated+Computer+Science+Student" alt="Typing SVG" style="height: 60px; vertical-align: middle;">
   </a>
 </h1>
-<h2 align="center">Passionate to be web3 developer</h2>
+<h2 align="center"></h2>
 <img align="right" alt="Coding" width="400" height="250" src="https://media1.tenor.com/m/UrnPTaqPEzkAAAAd/developer.gif">
 
 <p align="left"> 
