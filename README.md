@@ -10,7 +10,7 @@
 
 <!-- 🔭 I’m currently working on **Probis Website SabiKerja Project** -->
 
-- 🌱 I’m currently learning **Javascript & Solidity**
+- 🌱 I’m currently learning **Javascript & Python**
 
 <!--- 💬 Ask me about **Node.js, Bootstrap, Express**-->
 
